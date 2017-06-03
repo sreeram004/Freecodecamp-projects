@@ -1,0 +1,33 @@
+body { 
+  background: url("http://scromy.com/wp-content/uploads/2017/02/simple-cute-wallpapers-android.jpg");
+ 
+  height : 800px;
+  background-size: cover;
+  
+}
+
+h1 {
+    padding-top : 100px;
+  font-family : Lobster;
+  font-size : 4.2em;
+}
+
+h3 {
+  
+  font-family : Lobster;
+  font-size : 1.2em;
+}
+
+.quoteBlock {
+  
+  font-family : Lobster;
+  margin-top : auto;
+  padding-top : 20px;
+  margin-bottom : auto;
+  margin-left : auto;
+  margin-right : auto;
+}
+
+
+
+
