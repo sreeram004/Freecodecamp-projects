@@ -1,0 +1,30 @@
+body {
+  background : black;
+}
+
+h1 {
+  
+  font-size : 4.2em;
+  color : white;
+}
+
+p {
+  color : white;
+}
+
+#search-icon {
+  
+  color : white;
+}
+
+li {
+    list-style-position:inside;
+    border: 1px solid white;
+   
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+
+}
